@@ -16,4 +16,8 @@
 # Manage Bookings 
 ![takescreenshot_7152025_43447](https://github.com/user-attachments/assets/8643cd13-891b-4d82-a617-5d6165eafba2)
 
-A solo project created to showcase backend and frontend skills, please go to https://car-rental-project-by-affan.netlify.app/ for demo
+A solo project created to showcase frontend skills.
+
+please go to https://car-rental-project-by-affan.netlify.app/ for demo
+
+for backend, please got to https://github.com/AFFAN-AHMAD/carRental-server
