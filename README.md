@@ -20,4 +20,4 @@ A solo project created to showcase frontend skills.
 
 please go to https://car-rental-project-by-affan.netlify.app/ for demo
 
-for backend, please got to https://github.com/AFFAN-AHMAD/carRental-server
+for backend, please go to https://github.com/AFFAN-AHMAD/carRental-server
